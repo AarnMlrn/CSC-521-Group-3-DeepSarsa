@@ -4,7 +4,7 @@ Pulled from https://github.com/rlcode/reinforcement-learning/tree/master/1-grid-
 Commented and modified for testing
 
  ## How to run
- ### Esure all the needed libraries are installed
+ ### Ensure all the needed libraries are installed
  - copy
  - pylab
  - random
